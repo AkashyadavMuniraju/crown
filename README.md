@@ -78,24 +78,3 @@ npm start
 Open your browser and go to http://localhost:3000 to view the app.
 
 
-### 🔹Project Screenshots
-
-Here are some previews of the application:
-
-![Screenshot 2025-03-06 131613](https://raw.githubusercontent.com/AkashyadavMuniraju/your-repo-name/main/assets/2fd5bd88-6a6a-4d95-8a04-3a1a12924204)
-*This is the first screenshot.*
-
-![Screenshot 2025-03-06 131704](https://raw.githubusercontent.com/AkashyadavMuniraju/your-repo-name/main/assets/52ad6555-3ec5-4e13-9ca1-b2ad738b3e52)
-*This is the second screenshot.*
-
-![Screenshot 2025-03-06 132339](https://raw.githubusercontent.com/AkashyadavMuniraju/your-repo-name/main/assets/1904ff62-fedd-46e8-8b64-630ff95aa17b)
-*This is the third screenshot.*
-
-![Screenshot 2025-03-06 132409](https://raw.githubusercontent.com/AkashyadavMuniraju/your-repo-name/main/assets/cc30cbbf-f3a5-4fa2-bf72-f2d81c09bbb5)
-*This is the fourth screenshot.*
-
-![Screenshot 2025-03-06 132450](https://raw.githubusercontent.com/AkashyadavMuniraju/your-repo-name/main/assets/057e4e5f-8fef-45dd-91db-5cb0668531b9)
-*This is the fifth screenshot.*
-
-![Screenshot 2025-03-06 132536](https://raw.githubusercontent.com/AkashyadavMuniraju/your-repo-name/main/assets/c3323f9c-5839-4428-bafe-f1c9242bc153)
-*This is the sixth screenshot.*
